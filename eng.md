@@ -157,7 +157,7 @@ you Jacques Derrida fans out there. Well… maybe ;-).
 
 As an example, if Kickstarter used `<s>`, it might look like this:
 
-![][]
+![Example][Using the s element to semantically indicate when a limited pledge is full]
 
 *Using the `<s>` element to semantically indicate when a limited pledge is full*
 
@@ -367,3 +367,5 @@ have any other ways you like to style them? Let us know in the comments!
 [7]: http://en.wikipedia.org/wiki/Sous_rature
 [8]: http://krijnhoetmer.nl/irc-logs/whatwg/20130409#l-123
 [9]: http://core.trac.wordpress.org/ticket/8213
+
+[Using the s element to semantically indicate when a limited pledge is full]: img/s-example.png
