@@ -195,11 +195,9 @@ HTML5. Начнем с `<ins>` и `<del>`…
 
 Браузеры применяют следующие стили по умолчанию:
 
-* `<ins>`: `text-decoration: underline` 
-
-(<p style="text-decoration: underline">добавленный контент по умолчанию</p>)
-* `<del>`: `text-decoration: line-through` (удалённый контент по умолчанию)
-* `<s>`: `text-decoration: line-through` (перечёркнутый контент по умолчанию)
+* `<ins>`: `text-decoration: underline`
+* `<del>`: `text-decoration: line-through`
+* `<s>`: `text-decoration: line-through`
 
 Подчёркивание, которое используется для стилизации `<ins>` по умолчанию, делает 
 его похожим на посещённую ссылку, что приводит к классическому проколу в 
@@ -215,12 +213,14 @@ HTML5. Начнем с `<ins>` и `<del>`…
 
 #### Стили для `ins`
 
-* Обычный текст с зелёным подчёркиванием (пример вставленного текста)
+* Обычный текст с зелёным подчёркиванием 
 
     ins {
       border-bottom: 1px solid #47ad09;
       text-decoration: none;
     }
+
+<span style="border-bottom: 1px solid #47ad09; text-decoration: none;">пример вставленного текста</span>
 
 * Зелёный текст с едва заметным подчёркиванием (пример вставленного текста)
 
