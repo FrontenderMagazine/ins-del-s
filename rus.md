@@ -167,7 +167,7 @@ HTML5. Начнем с `<ins>` и `<del>`…
 К примеру, если на сайте для привлечения денежных средств Kickstarter 
 использовался `<s>`, это бы выглядело следующим образом:
 
-![][]
+![Пример][Элемент s используется чтобы семантически указать что нужная сумма собрана]
 
 *Элемент `<s>` используется чтобы семантически указать что нужная сумма собрана*
 
@@ -347,7 +347,7 @@ HTML5. Начнем с `<ins>` и `<del>`…
       transform: rotate(270deg);
     }
 
-<iframe src="http://result.dabblet.com/gist/6339712/88fcfc1c21e8b9d09eb305c3e7fb4b67c729f08c" />
+<iframe src="http://result.dabblet.com/gist/6339712/88fcfc1c21e8b9d09eb305c3e7fb4b67c729f08c"></iframe>
 
 Пользователи WordPress должны учитывать что мой заклятый враг [`wpautop` только 
 посмеётся над вашей попыткой][9] использовать блочные `<ins>` и `<del>`. 
@@ -394,3 +394,5 @@ HTML5. Начнем с `<ins>` и `<del>`…
 [7]: http://en.wikipedia.org/wiki/Sous_rature
 [8]: http://krijnhoetmer.nl/irc-logs/whatwg/20130409#l-123
 [9]: http://core.trac.wordpress.org/ticket/8213
+
+[Элемент s используется чтобы семантически указать что нужная сумма собрана]: img/s-example.png
