@@ -197,7 +197,7 @@ HTML5. Начнем с `<ins>` и `<del>`…
 
 * `<ins>`: `text-decoration: underline` 
 
-(<span style="text-decoration: underline">добавленный контент по умолчанию</span>)
+(<p style="text-decoration: underline">добавленный контент по умолчанию</p>)
 * `<del>`: `text-decoration: line-through` (удалённый контент по умолчанию)
 * `<s>`: `text-decoration: line-through` (перечёркнутый контент по умолчанию)
 
