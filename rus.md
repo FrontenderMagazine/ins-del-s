@@ -347,33 +347,7 @@ HTML5. Начнем с `<ins>` и `<del>`…
       transform: rotate(270deg);
     }
 
-<style type="text/css">
-.labeled-ins-block {
-  display: block;
-  margin-left: -1.25em;
-  border-left: 0.75em solid #47ad09;
-  padding-left: 0.5em;
-}
-.labeled-ins-block:before {
-  position: relative;
-  display: block;
-  content: "Addition";
-  left: -1.55em; /* adjust to fit */
-  top: 5em; /* adjust to fit */
-  width: 0;
-  height: 0;
-  font: 0.6em/0 "Helvetica Neue", Arial, Helvetica, sans-serif;
-  letter-spacing: 1px;
-  color: #fff;
-  -webkit-transform: rotate(270deg);
-  -moz-transform: rotate(270deg);
-  -ms-transform: rotate(270deg);
-  -o-transform: rotate(270deg);
-  transform: rotate(270deg);
-}
-</style>
-
-<ins class="labeled-ins-block">Нора сперва шла ровно, как тоннель, а потом сразу обрывалась так круто и неожиданно, что Алиса ахнуть не успела, как полетела-полетела вниз, в какой-то очень, очень глубокий колодец.</ins>
+<iframe src="http://result.dabblet.com/gist/6339712/88fcfc1c21e8b9d09eb305c3e7fb4b67c729f08c" />
 
 Пользователи WordPress должны учитывать что мой заклятый враг [`wpautop` только 
 посмеётся над вашей попыткой][9] использовать блочные `<ins>` и `<del>`. 
