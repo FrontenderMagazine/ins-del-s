@@ -395,4 +395,4 @@ reference">1</a> для поклонников Жака Дерриды (Jacques 
 [8]: http://krijnhoetmer.nl/irc-logs/whatwg/20130409#l-123
 [9]: http://core.trac.wordpress.org/ticket/8213
 
-[Элемент s используется чтобы семантически указать что нужная сумма собрана]: img/s-example-ru.png
+[Элемент s используется чтобы семантически указать что нужная сумма собрана]: img/s-example-ru-copy-2.png
